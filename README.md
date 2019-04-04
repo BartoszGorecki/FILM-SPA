@@ -1,1 +1,1 @@
-Filmweb portal with IMDB API
+Filmweb portal with IMDB API using React
